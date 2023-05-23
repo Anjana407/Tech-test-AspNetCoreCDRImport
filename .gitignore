@@ -1,0 +1,8 @@
+src/AspNetCoreCsvImportExport/bin
+src/AspNetCoreCsvImportExport/obj
+.vs/restore.dg
+src/AspNetCoreCsvImportExport/AspNetCoreCsvImportExport.xproj.user
+src/AspNetCoreCsvImportExport/project.lock.json
+.vs/AspNetCoreCsvImportExport/v14/.suo
+.vs/config/applicationhost.config
+.vs
